@@ -1,0 +1,11 @@
+{
+    "ssid": "your_ssid",
+    "wifi_password": "your_password",
+    
+    "device_ip": "static_device_ip",
+    "host_ip": "host_ip",
+    "subnet": "subnet",
+    "primary_dns": "primary_dns",
+    "secondary_dns": "secondary_dns",
+    "test_host_ip": "test_host_ip"
+}
